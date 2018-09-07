@@ -1,0 +1,29 @@
+h1{
+	color:rgb(0,133,2,1);
+	background: blue;
+	/*border-color: white;
+	border-width: 5px;
+	border-style: solid;*/
+	border: white 2px dashed;
+
+}
+h4 {
+	color:green;
+	border: white 10px solid;
+}
+li{
+	color:blue;
+	border: white 1px dashed;
+}
+label {
+	color : white;
+}
+body {
+	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTeIRTG34qr9YSi7mlDowBUx_gT4uEUDt5kwFKK3BFmMjDZ96);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+div {
+	background: green;
+}
